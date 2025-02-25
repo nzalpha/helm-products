@@ -12,6 +12,6 @@ nameSpace: dev-aadil-ns
 replicas: 
   default: 1
 image:
-  name: aadil08/products
+  name: aadil08/product
   tag: random
 targetPort: 8132
